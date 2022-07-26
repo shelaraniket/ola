@@ -1,0 +1,50 @@
+
+
+#banner >h2 ,p{
+    z-index: 1;
+}
+#bgimg{
+
+    z-index: -1;
+
+    object-fit: cover;
+
+}
+#head2{
+    margin-top: 130px;
+}
+.slider{
+    z-index: 99;
+    margin-top: 170px;
+    /* top: 790px; */
+    background-color: white;
+    box-shadow: rgb(28 28 28 / 20%) 0px 1.42623px 2.85246px;
+}
+/* .cards{
+    z-index: 99;
+} */
+
+.card{
+    box-shadow: rgb(28 28 28 / 20%) 0px 1.42623px 2.85246px;
+}
+.car{
+    top: -40px;
+    left: 250px;
+}
+.footer1{
+    box-shadow: rgb(35 35 35 / 30%) 0px 1.42623px 2.85246px;
+    /* background-color: cyan; */
+}
+.navbar1 a:hover{
+    color: red;
+}
+#navbarCollapse a :hover{
+    color: blue;
+}
+.hovereffect:hover
+{
+    background-color: blue;
+}
+@media screen (max-width:) {
+    
+}
